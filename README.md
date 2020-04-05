@@ -1,4 +1,4 @@
-# doom-network-graph
+# doom-wiki-visualizer
 
 contributors:
 Don Gatto
